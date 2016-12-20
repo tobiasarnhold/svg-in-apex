@@ -1,9 +1,9 @@
 {
 	"name": "SVG in APEX: Best Practices",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"description": "SVG in APEX: Best Practices",
 	"keywords": ["apex-at-work", "SVG", "Apex", "Raphael", "jQuery", "SVGJS", "Mapael", "Best Practice SVG", "APEX and SVG"],
-	"homepage": "https://github.com/tobiasarnhold/<TODO>",
+	"homepage": "https://github.com/tobiasarnhold/svg-in-apex",
 	"bugs": {
 		"url": "www.apex-at-work.com",
 		"email": "tobias-arnhold@hotmail.de"

@@ -8,23 +8,22 @@ This Application provide examples to different Frameworks and shows what is poss
 #### 2.0.3 - Inital Release (15.12.2016)
 
 
-
 ##Documentation / Installation guide
 
 
-###1.Database
+###1. Database
 
 Use a blank schema to deploy the Application, it can be easily created by the APEX-Wizard (internal Schema). Log in to your schema and run the following Scripts step-by-step:
-
--ddl.sql
--dml1.sql
--dml2.sql
-
+<br>
+-ddl.sql<br>
+-dml1.sql<br>
+-dml2.sql<br>
+<br>
 If the Scripts run fine commit the DML operation.
 
 
-###2.APEX
-Login to your workspace where the schema is assigned and import the application. You can use any APP-ID you want. The oogin is configured for APEX schema users.
+###2. APEX
+Login to your workspace where the schema is assigned and import the application. You can use any APP-ID you want. The login is configured for APEX schema users.
 
 ##Howto
 In the folder "howto_video" are gifs images includes examples about the different SVG solutions.
