@@ -1,6 +1,6 @@
 # SVG in APEX
-SVG in APEX provides "Best Practice" examples about "How To" integrate and interacte with SVG files in Oracle APEX.<br>
-This Application provide examples to different Frameworks and shows what is possible with these Frameworks in APEX. The Areas in the Application are structured by showing first the basics and how to integrate it in APEX and go on with developing complex business cases to show the possibilities.
+SVG in APEX provides "Best Practice" examples about how to use SVG images and areas in Oracle Application Express (APEX).
+The application specifically provides examples for two SVG frameworks (Raphaël,SVG.js) and shows what is possible with these two frameworks in APEX. Every SVG solution is provided by an basic implementation "how to" example and goes on with further complex business cases to show their unique possibilities.
 
 
 ##Changelog
