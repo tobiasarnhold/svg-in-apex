@@ -5,7 +5,7 @@ This Application provide examples to different Frameworks and shows what is poss
 
 ##Changelog
 
-#### 2.0.2 - Inital Release (15.12.2016)
+#### 2.0.3 - Inital Release (15.12.2016)
 
 
 
@@ -20,14 +20,14 @@ Use a blank schema to deploy the Application, it can be easily created by the AP
 -dml1.sql
 -dml2.sql
 
-If the Scripts run fine commit the DML-Operation.
+If the Scripts run fine commit the DML operation.
 
 
 ###2.APEX
-Login to your workspace where the schema is assigned and import the application. You can use any APP-ID you want. The Login is configured for APEX-Users.
+Login to your workspace where the schema is assigned and import the application. You can use any APP-ID you want. The oogin is configured for APEX schema users.
 
 ##Howto
-In the folder "howto_video" are gifs which shows a way to use the masks.
+In the folder "howto_video" are gifs images includes examples about the different SVG solutions.
 
 
 ##Credits
