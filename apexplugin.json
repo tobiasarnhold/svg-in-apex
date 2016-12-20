@@ -25,8 +25,8 @@
 		"apex": {
 			"versions": ["5.0.4"],
 			"plugin": {
-				"internalName": "<TODO>",
-				"type": "region",
+				"internalName": "SVG_IN_APEX",
+				"type": "application",
 				"demo": "https://apex.oracle.com/pls/apex/f?p=7775777",
 				"previewImage": "https://3.bp.blogspot.com/-ARctCQJBlNg/WBtbtxSWz6I/AAAAAAAABjY/dEVvAsD9Jq8C5b5cLQhYpri0PuSrMIeFACK4B/s640/svg_in_apex.png"
 			}
